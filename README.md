@@ -1,4 +1,4 @@
-![My Awesome Banner](https://github.com/mahirhacks/mahirhacks/blob/main/itoshi-sae.gif)
+![My Awesome Banner](https://github.com/mahirhacks/mahirhacks/blob/main/itoshi-rin-rin.gif)
 
 ### Cybersecurity Researcher | Developer
 
