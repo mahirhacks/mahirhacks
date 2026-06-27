@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mahirhacks/mahirhacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm [Your Name]
 
-Here are some ideas to get you started:
+<!-- Replace this link with your own banner image URL -->
+![Banner](https://via.placeholder.com/1000x300?text=Your+Banner+Here)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Cybersecurity Researcher | Developer
+
+![Profile Views](https://img.shields.io/badge/Profile_Views-1k-blue) 
+![Followers](https://img.shields.io/badge/Followers-100-orange)
+
+</div>
+
+### ⚙️ My Technical Stack
+* **Languages:** C/C++, Python, Java, Assembly, Bash
+* **Cloud Infrastructure:** AWS (VPC, S3, EC2, CloudFront, WAF)
+* **Current Focus:** Building an Intrusion Detection System (IDS) with ML and developing AI-integrated SaaS solutions.
+
+---
