@@ -1,4 +1,6 @@
-![My Awesome Banner](https://github.com/mahirhacks/mahirhacks/blob/main/itoshi-rin-rin.gif)
+<div align="center">
+
+<img src="https://github.com/mahirhacks/mahirhacks/blob/main/itoshi-rin-rin.gif?raw=true" width="100%" />
 
 ### Cybersecurity Researcher | Developer
 
