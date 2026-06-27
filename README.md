@@ -1,9 +1,4 @@
-<div align="center">
-
-# 👋 Hi, I'm [Your Name]
-
-<!-- Replace this link with your own banner image URL -->
-![My Awesome Banner](https://i.pinimg.com/736x/df/7e/3b/df7e3b299c4fbfa32fb5f5de80058dbd.jpg)
+![My Awesome Banner]([https://i.pinimg.com/736x/df/7e/3b/df7e3b299c4fbfa32fb5f5de80058dbd.jpg](https://pin.it/4nNj0Omi8))
 
 ### Cybersecurity Researcher | Developer
 
