@@ -3,7 +3,7 @@
 # 👋 Hi, I'm [Your Name]
 
 <!-- Replace this link with your own banner image URL -->
-![Banner]([https://via.placeholder.com/1000x300?text=Your+Banner+Here](https://www.pinterest.com/pin/41236152832434231/)
+![Banner](https://www.pinterest.com/pin/41236152832434231/)
 
 ### Cybersecurity Researcher | Developer
 
