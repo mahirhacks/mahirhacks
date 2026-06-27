@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://github.com/mahirhacks/mahirhacks/blob/main/itoshi-rin-rin.gif?raw=true" width="100%" />
+<div align="center" style="height: 250px; overflow: hidden;">
+  <img src="https://github.com/mahirhacks/mahirhacks/blob/main/itoshi-rin-rin.gif?raw=true" style="width: 100%; margin-top: -50px;" />
+</div>
 
 ### Cybersecurity Researcher | Developer
 
