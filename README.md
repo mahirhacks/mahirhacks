@@ -29,7 +29,7 @@
 <br/>
 
 > Web & API pentesting · cloud security · ML vulnerability research · production SaaS.
-> Currently @ **FSeC** — enterprise & government engagements across MY / AU.
+> Experience @ **FSeC** — enterprise & government engagements across MY / AU.
 >
 > **→ [View full exhibition](https://mahirhacks.github.io/MHACKS/)** — experience, credentials, and project deep-dives live there.
 
