@@ -6,7 +6,7 @@
 
 # Hi, I'm Mahir Asif
 
-**Junior Pentester · Security Researcher · Builder**
+**Pentester · Security Researcher · Builder**
 
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-c41e3a?style=for-the-badge)](https://mahirhacks.github.io/MHACKS/)
 [![Location](https://img.shields.io/badge/Kuala%20Lumpur%2C%20MY-1a1a1a?style=for-the-badge&logo=googlemaps&logoColor=c41e3a)](https://mahirhacks.github.io/MHACKS/)
