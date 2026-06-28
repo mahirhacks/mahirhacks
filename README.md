@@ -1,7 +1,7 @@
 <div align="center">
 
 <div align="center">
-  <img src="https://github.com/mahirhacks/mahirhacks/blob/main/itoshi-rin-rin.gif?raw=true" style="width: 100%; margin-top: -50px;" />
+  <img src="https://github.com/mahirhacks/mahirhacks/blob/main/itoshi-rin-rin.gif?raw=true" style="width: 100%;" />
 </div>
 
 # Hi, I'm Mahir Asif
