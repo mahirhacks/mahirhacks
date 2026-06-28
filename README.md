@@ -75,7 +75,7 @@
 
 | | Project | Description | Link |
 | :--: | :--- | :--- | :---: |
-| 🛡️ | **Vulnera** | CodeBERT/GraphCodeBERT fine-tuned on ~120k C/C++ functions · temporal calibration pipeline | [Portfolio](https://mahirhacks.github.io/MHACKS/) |
+| 🛡️ | **Vulnera** | CodeBERT/GraphCodeBERT fine-tuned on ~120k C/C++ functions · temporal calibration pipeline | [Portfolio](https://github.com/mahirhacks/VULNERA) |
 | 🤖 | **LeadBondhu AI** | AI lead capture for Bangladeshi SMBs · Bangla / Banglish / English · Cloudflare + Supabase | [Live](https://leadbondhuai.online) |
 
 <br/>
