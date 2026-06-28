@@ -77,7 +77,6 @@
 | :--: | :--- | :--- | :---: |
 | 🛡️ | **Vulnera** | CodeBERT/GraphCodeBERT fine-tuned on ~120k C/C++ functions · temporal calibration pipeline | [Portfolio](https://mahirhacks.github.io/MHACKS/) |
 | 🤖 | **LeadBondhu AI** | AI lead capture for Bangladeshi SMBs · Bangla / Banglish / English · Cloudflare + Supabase | [Live](https://leadbondhuai.online) |
-| 📄 | **Beyond the Function Window** | arXiv paper — inter-procedural path enumeration vs. ML-based detectors | [Portfolio](https://mahirhacks.github.io/MHACKS/) |
 
 <br/>
 
