@@ -39,9 +39,7 @@
 
 <div align="center">
 
-[![Stack](https://skillicons.dev/icons?i=aws,bash,py,pytorch,r,c,cpp,java,js,debian,kali,linux,redhat,ubuntu,powershell,&theme=dark&perline=13)](https://skillicons.dev)
-[![Stack](https://skillicons.dev/icons?i=ae,ai,ps,pr,figma&theme=dark&perline=13)](https://skillicons.dev)
-[![Stack](https://skillicons.dev/icons?i=html,css,tailwind,ts,angular,bootstrap,cloudflare,workers,docker,git,githubactions,sqlite,mongodb,dynamodb,supabase,mysql,nginx,nodejs,npm,postman,vitest,visualstudio,vscode,arduino&theme=dark&perline=13)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=aws,bash,py,pytorch,linux,redhat,tailwind,ts,cloudflare,docker,githubactions,supabase,mysql,nginx,nodejs&theme=dark&perline=13)](https://skillicons.dev)
 </div>
 
 <br/>
