@@ -70,13 +70,13 @@
 
 <br/>
 
-## 𝙰𝚌𝚝𝚒𝚟𝚎 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 📁
+## Best 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 📁
 
 | | Project | Description | Link |
 | :--: | :--- | :--- | :---: |
 | 🛡️ | **Vulnera** | CodeBERT/GraphCodeBERT fine-tuned on ~120k C/C++ functions · temporal calibration pipeline | [Portfolio](https://github.com/mahirhacks/VULNERA) |
 | 🤖 | **LeadBondhu AI** | AI lead capture for Bangladeshi SMBs · Bangla / Banglish / English · Cloudflare + Supabase | [Live](https://leadbondhuai.online) |
-| 📎 | **Joblicator** | An AI powered Job Application Applying tool that speeds up the preparation of tailored CV and Job letter | Developing... |
+| 📎 | **Joblicator** | An AI powered Job Application Applying tool that speeds up the preparation of tailored CV and Job letter | [Portfolio](https://github.com/mahirhacks/Joblicator) |
 
 <br/>
 
