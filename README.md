@@ -74,7 +74,7 @@
 
 | | Project | Description | Link |
 | :--: | :--- | :--- | :---: |
-| 🛡️ | **Vulnera** | CodeBERT/GraphCodeBERT fine-tuned on ~120k C/C++ functions · temporal calibration pipeline | [Portfolio](https://github.com/mahirhacks/VULNERA) |
+| 🛡️ | **Vulnera** | Trained Trees on embeddings from GraphCodeBERT on ~120K C/C++ functions · temporal calibration pipeline | [Portfolio](https://github.com/mahirhacks/VULNERA) |
 | 🤖 | **LeadBondhu AI** | AI lead capture for Bangladeshi SMBs · Bangla / Banglish / English · Cloudflare + Supabase | [Live](https://leadbondhuai.online) |
 | 📎 | **Joblicator** | An AI powered Job Application Applying tool that speeds up the preparation of tailored CV and Job letter | [Portfolio](https://github.com/mahirhacks/Joblicator) |
 
