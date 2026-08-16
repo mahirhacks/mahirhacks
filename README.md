@@ -75,8 +75,8 @@
 | | Project | Description | Link |
 | :--: | :--- | :--- | :---: |
 | 🛡️ | **Vulnera** | Trained Trees on embeddings from GraphCodeBERT on ~120K C/C++ functions · temporal calibration pipeline | [Portfolio](https://github.com/mahirhacks/VULNERA) |
-| 🤖 | **LeadBondhu AI** | AI lead capture for Bangladeshi SMBs · Bangla / Banglish / English · Cloudflare + Supabase | [Live](https://leadbondhuai.online) |
-| 📎 | **Joblicator** | An AI powered Job Application Applying tool that speeds up the preparation of tailored CV and Job letter | [Portfolio](https://github.com/mahirhacks/Joblicator) |
+| 🤖 | **Traffsucker** | Browser-based web mapper that captures traffic, builds attack-surface graphs and triage. Not a vulnerability scanner. | [Live](https://github.com/mahirhacks/traffsucker) |
+| 📎 | **Xekute** | Agentic IDE based VAPT workbench. Traffic analysis, Controlled agent workflow and MCP Support | [Portfolio](https://github.com/mahirhacks/XEKUTE) |
 
 <br/>
 
