@@ -65,8 +65,7 @@
 ## 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙵𝚘𝚌𝚞𝚜
 
 - Honours FYP — **Vulnera**: ML pipeline for zero-day vulnerability risk estimation in C/C++
-- Shipping **LeadBondhu AI** — production SaaS with Gemini + Meta Messenger integration
-- Researching inter-procedural vulnerability composition beyond function-level ML detectors
+- Development and Research **Xekute** — IDE forked agentic vapt assistant.
 
 <br/>
 
