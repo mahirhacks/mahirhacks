@@ -75,7 +75,7 @@
 | :--: | :--- | :--- | :---: |
 | 🛡️ | **Vulnera** | Trained Trees on embeddings from GraphCodeBERT on ~120K C/C++ functions · temporal calibration pipeline | [Portfolio](https://github.com/mahirhacks/VULNERA) |
 | 🛡️ | **Traffsucker** | Browser-based web mapper that captures traffic, builds attack-surface graphs and triage. Not a vulnerability scanner. | [Portfolio](https://github.com/mahirhacks/traffsucker) |
-| 🛡️ | **Xekute** | Agentic IDE based VAPT workbench. Traffic analysis, Controlled agent workflow and MCP Support | [Portfolio](https://github.com/mahirhacks/XEKUTE) |
+| 🛡️ | **Xekute** | Agentic IDE based VAPT workbench. Traffic analysis, Controlled agent workflow and MCP Support | [Portfolio](https://mahirhacks.github.io/MHACKS/xekute/xekute.html) |
 | 🤖 | **Leadbondhuai** | AI Automated Customer service Agent that replies to customers inquieries directly through facebook and instagram | [Live](https://leadbondhuai.online) |
 
 <br/>
