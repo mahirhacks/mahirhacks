@@ -1,8 +1,6 @@
 <div align="center">
 
-<div align="center">
   <img src="https://github.com/mahirhacks/mahirhacks/blob/main/itoshi-rin-rin.gif?raw=true"/>
-</div>
 
 # Hi, I'm Mahir Asif
 
@@ -11,6 +9,7 @@
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-Yes-c41e3a?style=for-the-badge)](https://mahirhacks.github.io/MHACKS/)
 [![Location](https://img.shields.io/badge/Kuala%20Lumpur%2C%20MY-1a1a1a?style=for-the-badge&logo=googlemaps&logoColor=c41e3a)](https://mahirhacks.github.io/MHACKS/)
 [![Portfolio](https://img.shields.io/badge/→%20Full%20Portfolio-mahirhacks.github.io%2FMHACKS-1a1a1a?style=for-the-badge&logo=vercel&logoColor=c41e3a)](https://mahirhacks.github.io/MHACKS/)
+[![devprobs](https://img.shields.io/badge/→%20devprobs%20Studio-devprobs.pages.dev-ff5c00?style=for-the-badge&logo=vercel&logoColor=white)](https://devprobs.pages.dev)
 
 <br/>
 
@@ -21,17 +20,18 @@
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fmahir907-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=c41e3a)](https://linkedin.com/in/mahir907)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Fmahir907-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=c41e3a)](https://www.linkedin.com/in/mahir907)
 [![Email](https://img.shields.io/badge/Email-asifmahir907%40gmail.com-1a1a1a?style=for-the-badge&logo=gmail&logoColor=c41e3a)](mailto:asifmahir907@gmail.com)
 
 </div>
 
 <br/>
 
-> Web & API pentesting · cloud security · ML vulnerability research · production SaaS.
+> Web & API pentesting · cloud security · ML vulnerability research · agentic AI · production SaaS.
 > Experience @ **FSeC** — enterprise & government engagements across MY / AU.
 >
 > **→ [View full exhibition](https://mahirhacks.github.io/MHACKS/)** — experience, credentials, and project deep-dives live there.
+> **→ [devprobs](https://devprobs.pages.dev)** — websites, software, and a full VAPT included in every package.
 
 <br/>
 
@@ -40,6 +40,7 @@
 <div align="center">
 
 [![Stack](https://skillicons.dev/icons?i=aws,bash,py,pytorch,linux,redhat,tailwind,ts,cloudflare,docker,githubactions,supabase,mysql,nginx,nodejs&theme=dark&perline=13)](https://skillicons.dev)
+
 </div>
 
 <br/>
@@ -64,8 +65,9 @@
 
 ## 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝙵𝚘𝚌𝚞𝚜
 
-- Honours FYP — **Vulnera**: ML pipeline for zero-day vulnerability risk estimation in C/C++
-- Development and Research **Xekute** — IDE forked agentic vapt assistant.
+- Honours FYP — **VULNERA**: ML pipeline for function-level vulnerability risk estimation in C/C++
+- Research & development on **Xekute** — local-first agentic VAPT workbench with governed agent workflows
+- Running **devprobs** — web & software studio with security built into every delivery
 
 <br/>
 
@@ -73,15 +75,17 @@
 
 | | Project | Description | Link |
 | :--: | :--- | :--- | :---: |
-| 🛡️ | **Vulnera** | Trained Trees on embeddings from GraphCodeBERT on ~120K C/C++ functions · temporal calibration pipeline | [Portfolio](https://github.com/mahirhacks/VULNERA) |
-| 🛡️ | **Traffsucker** | Browser-based web mapper that captures traffic, builds attack-surface graphs and triage. Not a vulnerability scanner. | [Portfolio](https://github.com/mahirhacks/traffsucker) |
-| 🛡️ | **Xekute** | Agentic IDE based VAPT workbench. Traffic analysis, Controlled agent workflow and MCP Support | [Portfolio](https://mahirhacks.github.io/MHACKS/xekute/xekute.html) |
-| 🤖 | **Leadbondhuai** | AI Automated Customer service Agent that replies to customers inquieries directly through facebook and instagram | [Live](https://leadbondhuai.online) |
+| 🛡️ | **VULNERA** | GraphCodeBERT embeddings + tree ensemble on ~120K C/C++ functions · calibrated aggregation & explainable attribution | [Portfolio](https://mahirhacks.github.io/MHACKS/vulnera/index.html) |
+| 🛡️ | **Xekute** | Local-first agentic VAPT workbench — traffic analysis, scope controls, verification workflows, MCP support | [Portfolio](https://mahirhacks.github.io/MHACKS/xekute/xekute.html) |
+| 🛡️ | **Traffsucker** | Browser-based web mapper that captures traffic, builds attack-surface graphs, and triage — not a vulnerability scanner | [GitHub](https://github.com/mahirhacks/traffsucker) |
+| 🤖 | **Mentora** | Voice-first visual AI tutor with deterministic board tools, script validation, and realtime multimodal orchestration | [Portfolio](https://mahirhacks.github.io/MHACKS/mentora/index.html) |
+| 🤖 | **LeadBondhu AI** | Production multilingual AI lead-capture for Bangladeshi SMBs — Meta messaging, Gemini, Supabase, Cloudflare | [Live](https://leadbondhuai.online) |
+| 🌐 | **devprobs** | Studio for websites, custom software, and web dev — full VAPT included in every package | [Live](https://devprobs.pages.dev) |
 
 <br/>
 
 <div align="center">
 
-<sub>End of teaser · <a href="https://mahirhacks.github.io/MHACKS/">mahirhacks.github.io/MHACKS</a> · 2026</sub>
+<sub>End of teaser · <a href="https://mahirhacks.github.io/MHACKS/">mahirhacks.github.io/MHACKS</a> · <a href="https://devprobs.pages.dev">devprobs.pages.dev</a> · 2026</sub>
 
 </div>
